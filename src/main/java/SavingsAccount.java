@@ -9,5 +9,7 @@ public class SavingsAccount {
    public double creditCash(double cash) {
       return cash;
    }
-
+   public double handleTransfers(double history) {
+      return history;
+   }
 }
