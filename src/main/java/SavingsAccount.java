@@ -3,5 +3,7 @@ public class SavingsAccount {
    String name;
    double accountBalance;
    String status;
-
+   public double debitCash(double cash) {
+      return cash;
+   }
 }
