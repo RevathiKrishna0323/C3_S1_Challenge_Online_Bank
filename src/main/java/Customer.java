@@ -8,5 +8,8 @@ public class Customer {
     public double depositCash(double cash) {
         return cash;
     }
+    public double transferFund(double cash) {
+        return cash;
+    }
 
 }
