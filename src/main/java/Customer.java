@@ -5,6 +5,8 @@ public class Customer {
     public String checkBalance(String cash) {
         return cash;
     }
-
+    public double depositCash(double cash) {
+        return cash;
+    }
 
 }
