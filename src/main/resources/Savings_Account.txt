@@ -1,0 +1,14 @@
+//Attributes
+    long accountNumber;
+    String name;
+    double accountBalance;
+    String status;
+// Behaviours
+    debitCash
+    creditCash
+    handleTransfers
+    checkBalance
+    withdrawCash
+    depositCash
+    transferFund
+
