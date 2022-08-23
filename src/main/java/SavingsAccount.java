@@ -6,4 +6,8 @@ public class SavingsAccount {
    public double debitCash(double cash) {
       return cash;
    }
+   public double creditCash(double cash) {
+      return cash;
+   }
+
 }
