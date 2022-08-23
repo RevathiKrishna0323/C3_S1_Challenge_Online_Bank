@@ -12,4 +12,8 @@ public class SavingsAccount {
    public double handleTransfers(double history) {
       return history;
    }
+   public double checkBalance(double balance) {
+      return balance;
+   }
+
 }
